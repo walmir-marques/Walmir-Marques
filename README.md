@@ -1,7 +1,7 @@
 
 👋 Olá! Eu sou Walmir Marques Filho<br><br>
 Sou um profissional de Tecnologia da Informação com mais de 6 anos de experiência em suporte e infraestrutura. <br>
-Atualmente, estou em transição para a área de Ciência de Dados, buscando aplicar minhas habilidades técnicas e minha paixão por análise e tecnologia para resolver problemas complexos com dados.
+Atualmente, estou em transição para a área de Ciência de Dados, buscando aplicar minhas habilidades técnicas e minha paixão por análise e tecnologia para resolver problemas complexos com dados.<br><br>
 
 🚀 Sobre Mim<br><br>
 🎓 Bacharel em Ciência da Computação desde 2012.<br>
