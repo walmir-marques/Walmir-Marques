@@ -14,7 +14,9 @@ Linguagens de Programação: Python, SQL
 Ferramentas de Análise e Visualização: Excel, Power BI
 Metodologias de Análise: CRISP-DM
 Interesses: Machine Learning, Data Science, Automação de Processos
+
+
 📫 Entre em Contato
-Email: walmir.marques.filho@exemplo.com
-LinkedIn: Walmir Marques Filho
-GitHub: walmirmarques
+Email: walmir-mf@hotmail.com
+LinkedIn: [Walmir Marques Filho](https://www.linkedin.com/in/walmir-marques-filho-4b80b02ba/)
+
