@@ -3,7 +3,7 @@
 Sou um profissional de Tecnologia da Informação com mais de 6 anos de experiência em suporte e infraestrutura. <br>
 Atualmente, estou em transição para a área de Ciência de Dados, buscando aplicar minhas habilidades técnicas e minha paixão por análise e tecnologia para resolver problemas complexos com dados.
 
-🚀 Sobre Mim<br>
+🚀 Sobre Mim<br><br>
 🎓 Bacharel em Ciência da Computação desde 2012.<br>
 🌍 Tive a oportunidade de morar na Irlanda em 2022, onde aprendi inglês e vivi novas experiências culturais e profissionais.<br>
 📚 Atualmente, estou cursando uma formação em Ciência de Dados na escola DNC, onde venho aprendendo ferramentas como Excel, Python, SQL, Power BI, CRISP-DM e Machine Learning.<br>
