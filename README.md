@@ -8,7 +8,8 @@ Atualmente, estou em transição para a área de Ciência de Dados, buscando apl
 🌍 Tive a oportunidade de morar na Irlanda em 2022, onde aprendi inglês e vivi novas experiências culturais e profissionais.<br>
 📚 Atualmente, estou cursando uma formação em Ciência de Dados na escola DNC, onde venho aprendendo ferramentas como Excel, Python, SQL, Power BI, CRISP-DM e Machine Learning.<br>
 💡 Estou me dedicando a projetos pessoais para desenvolver minhas habilidades em análise de dados e criar um portfólio que mostre minha evolução na área.<br>
-🌱 Sempre curioso e disposto a aprender, especialmente sobre tecnologias emergentes e metodologias de análise de dados.<br>
+🌱 Sempre curioso e disposto a aprender, especialmente sobre tecnologias emergentes e metodologias de análise de dados.<br><br><br>
+
 🛠️ Habilidades e Tecnologias<br><br>
 
 Linguagens de Programação: Python, SQL<br>
